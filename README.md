@@ -1,4 +1,4 @@
-Inventory-File-Generator
+Student Database Grade Application
 
 ●Engineered a software solution employing VBA and SQL to visualize student and course data through Excel graphs, seamlessly generating detailed reports in Word instantly.
 
